@@ -1,56 +1,122 @@
-<img align="right" src="https://raw.githubusercontent.com/gist/ctrl-ravi/replacethislinktoyourgist/main/programmer.gif" width="300">
-
-<h1 align="center">
-  <b>RAVI PRAKASH</b>
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=5BCDEC&size=30&center=true&vCenter=true&width=600&height=70&lines=Problem+Solver;Algorithm+Enthusiast;C%2B%2B+Expert;Backend+Explorer" alt="Typing SVG">
-</h1>
-
+```html
+<!-- 
+  ASCII Text generated using: https://patorjk.com/software/taag/
+  Style inspired by cyberpunk design systems
+-->
 <div align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-Love-ff69b4?style=flat-square&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Problem_Solving-Passion-success?style=flat-square&logo=leetcode&logoColor=white">
-  <img src="https://img.shields.io/badge/Backend-Explorer-blue?style=flat-square&logo=node.js&logoColor=white">
+  <pre>
+  
+  █▀█ ▄▀█ █░█ █   █▀█ █▀█ ▄▀█ █▄▀ ▄▀█ █▀ █░█
+  █▀▄ █▀█ ▀▄▀ █   █▀▀ █▀▄ █▀█ █░█ █▀█ ▄█ █▀█
+  
+  </pre>
+
+  <p>
+    <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/Status-Online-00D100?style=for-the-badge"></a>
+    <a href="https://github.com/ctrl-ravi"><img src="https://img.shields.io/badge/Uptime-99.9%25-00D100?style=for-the-badge"></a>
+  </p>
 </div>
 
 <br>
 
-<h2 align="center">⚡ About Me in Binary ⚡</h2>
+<div>
+  <table width="100%">
+    <tr>
+      <td width="55%" valign="top">
+        <h3>~/system/about.cpp</h3>
+        
+```cpp
+#include <life.h>
+#include <passion.h>
 
+class Developer {
+private:
+    std::string name = "Ravi Prakash";
+    std::vector<std::string> skills = {
+        "C++", "Python", "JavaScript", 
+        "Problem Solving", "Backend Development"
+    };
+    
+    bool coffee_dependent = true;
+    int bugs_fixed = INT_MAX;
+    
+public:
+    void current_focus() {
+        std::cout << "🧠 Mastering DSA" << std::endl;
+        std::cout << "🌐 Building backend systems" << std::endl;
+        std::cout << "🗄️ Learning database design" << std::endl;
+        std::cout << "⚙️ Creating utility tools" << std::endl;
+    }
+    
+    bool is_coding() { 
+        return true; // Always coding
+    }
+};
 ```
-01010010 01100001 01110110 01101001 00100000 01101001 01110011 00100000 
-01100001 00100000 01110000 01100001 01110011 01110011 01101001 01101111 
-01101110 01100001 01110100 01100101 00100000 01100011 01101111 01100100 
-01100101 01110010 00100000 01110111 01101000 01101111 00100000 01110011 
-01110000 01100101 01100011 01101001 01100001 01101100 01101001 01111010 
-01100101 01110011 00100000 01101001 01101110 00100000 01100010 01110101 
-01101001 01101100 01100100 01101001 01101110 01100111 00100000 01100011 
-01101111 01101101 01110000 01101100 01100101 01111000 00100000 01110011 
-01111001 01110011 01110100 01100101 01101101 01110011 00101110 00001010
-```
+      </td>
+      <td width="45%" valign="top">
+        <h3>~/system/stats.sh</h3>
+        
+```bash
+# System Statistics
+$ uptime
+⚡ Coding for 24/7/365
 
-<details>
-  <summary><b>📝 Translation</b></summary>
-  <i>Ravi is a passionate coder who specializes in building complex systems.</i>
-</details>
+$ top
+⚡ Most used languages:
+1. C++
+2. Python
+3. JavaScript
+
+$ memory
+⚡ Currently learning: 
+- Advanced data structures
+- Systems design
+- Database optimization
+
+$ processes
+⚡ Always running:
+- Problem solving
+- Code optimization
+- Learning new tech
+```
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
-<h2 align="center">🚀 My Projects 🚀</h2>
+<h2 align="center">⚡ PROJECT SHOWCASE ⚡</h2>
 
-<div align="center">
-  <table>
+<div>
+  <table width="100%">
     <tr>
-      <td align="center" width="50%">
-        <a href="https://playlistduration.pelupa.in/" target="_blank">
+      <th width="50%">
+        <a href="https://playlistduration.pelupa.in/">
           <img src="https://img.shields.io/badge/Playlist_Duration-5BCDEC?style=for-the-badge&logo=youtube&logoColor=white">
         </a>
-        <p>Calculate the total duration of any YouTube playlist with a clean and interactive interface.</p>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://pricehistory.pelupa.in/" target="_blank">
+      </th>
+      <th width="50%">
+        <a href="https://pricehistory.pelupa.in/">
           <img src="https://img.shields.io/badge/Price_History-FF3860?style=for-the-badge&logo=line-chart&logoColor=white">
         </a>
-        <p>Track price history of products across various e-commerce platforms to make smart purchasing decisions.</p>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <img src="https://raw.githubusercontent.com/gist/ctrl-ravi/replacethislinktoyourgist/main/playlist.png" width="90%" alt="Playlist Duration Tool">
+          <p><strong>Calculate the total duration of any YouTube playlist</strong></p>
+          <p>A clean and interactive interface that helps users estimate how long it takes to watch an entire YouTube playlist.</p>
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <img src="https://raw.githubusercontent.com/gist/ctrl-ravi/replacethislinktoyourgist/main/price.png" width="90%" alt="Price History Tool">
+          <p><strong>Track price history across e-commerce platforms</strong></p>
+          <p>Make smart purchasing decisions by tracking price fluctuations of products on various online platforms.</p>
+        </div>
       </td>
     </tr>
   </table>
@@ -58,21 +124,30 @@
 
 <br>
 
-<h2 align="center">📊 Current Mission 📊</h2>
+<h2 align="center"><code>&lt;/&gt;</code> TECH STACK <code>&lt;/&gt;</code></h2>
 
 <div align="center">
   <table>
     <tr>
+      <th>Core</th>
+      <th>Web</th>
+      <th>Tools</th>
+    </tr>
+    <tr>
       <td>
-        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
       </td>
       <td>
-        <ul>
-          <li>🧠 <b>Mastering</b> data structures & algorithms</li>
-          <li>🌐 <b>Building</b> backend systems with Node.js</li>
-          <li>🗄️ <b>Learning</b> database design with MongoDB & SQL</li>
-          <li>⚙️ <b>Creating</b> CLI tools and utility applications</li>
-        </ul>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
       </td>
     </tr>
   </table>
@@ -80,36 +155,14 @@
 
 <br>
 
-<h2 align="center">🛠️ Technical Arsenal 🛠️</h2>
-
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <th>Category</th>
-      <th>Technologies</th>
-    </tr>
-    <tr>
-      <td><b>Core Languages</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+      <td width="50%">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ctrl-ravi&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF"/>
       </td>
-    </tr>
-    <tr>
-      <td><b>Development Tools</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-      </td>
-    </tr>
-    <tr>
-      <td><b>Web Development</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+      <td width="50%">
+        <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ctrl-ravi&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF"/>
       </td>
     </tr>
   </table>
@@ -117,30 +170,20 @@
 
 <br>
 
-<h2 align="center">📈 GitHub Analytics 📈</h2>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ctrl-ravi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&icon_color=ff3860&title_color=7957d5&text_color=a9fef7"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-ravi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7957d5&text_color=a9fef7"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ctrl-ravi&theme=tokyonight&hide_border=true&background=1a1b27&stroke=ff3860&fire=ff3860&currStreakNum=a9fef7&sideNums=a9fef7&currStreakLabel=7957d5&sideLabels=7957d5&dates=a9fef7"/>
-</p>
-
-<br>
-
-<h2 align="center">💭 Code Philosophy 💭</h2>
+<h2 align="center"><code>echo "Developer Philosophy"</code></h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=7957d5&size=25&center=true&vCenter=true&width=600&height=100&lines=First%2C+solve+the+problem.;Then%2C+write+the+code.;+%E2%80%94+John+Johnson" alt="Quote">
+  <blockquote>
+    <p>"First, solve the problem. Then, write the code."</p>
+    <footer>— John Johnson</footer>
+  </blockquote>
 </div>
 
 <br>
 
-<h2 align="center">🌐 Connect With Me 🌐</h2>
+<h2 align="center">CONNECTIONS</h2>
 
-<p align="center">
+<div align="center">
   <a href="your-linkedin-link">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -150,13 +193,13 @@
   <a href="https://github.com/ctrl-ravi">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-</p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ctrl-ravi&label=Profile%20Views&color=7957d5&style=for-the-badge" alt="Profile Views">
 </div>
 
-<!-- 
-Replace the placeholder GIF link with your own animated developer GIF
-Consider adding a custom contribution graph: https://github.com/ashutosh00710/github-readme-activity-graph
---> 
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/ctrl-ravi/replacethislinktoyourgist/main/footer.gif" width="100%">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=ctrl-ravi&label=Profile%20Views&color=FF00FF&style=flat-square" alt="Profile Views">
+</div>
+```
