@@ -35,6 +35,29 @@
 
 <br>
 
+<h2 align="center">🚀 My Projects 🚀</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://playlistduration.pelupa.in/" target="_blank">
+          <img src="https://img.shields.io/badge/Playlist_Duration-5BCDEC?style=for-the-badge&logo=youtube&logoColor=white">
+        </a>
+        <p>Calculate the total duration of any YouTube playlist with a clean and interactive interface.</p>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://pricehistory.pelupa.in/" target="_blank">
+          <img src="https://img.shields.io/badge/Price_History-FF3860?style=for-the-badge&logo=line-chart&logoColor=white">
+        </a>
+        <p>Track price history of products across various e-commerce platforms to make smart purchasing decisions.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
 <h2 align="center">📊 Current Mission 📊</h2>
 
 <div align="center">
@@ -82,11 +105,11 @@
       </td>
     </tr>
     <tr>
-      <td><b>Learning Path</b></td>
+      <td><b>Web Development</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
       </td>
     </tr>
   </table>
