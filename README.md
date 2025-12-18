@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=RAVI%20PRAKASH&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Problem%20Solver%20|%20Tool%20Builder&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=RAVI%20PRAKASH&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Problem%20Solver%20|%20Tool%20Builder&descAlignY=55&descAlign=50" width="100%" alt="Header banner with RAVI PRAKASH name and title"/>
 </div>
 
 <br>
@@ -92,7 +92,7 @@
 <h2 align="center">💻 Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,mongodb,git,vscode,linux&perline=9" alt="Tech Stack Icons" loading="lazy" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,mongodb,git,vscode,linux&perline=9" alt="Tech Stack Icons" />
 </div>
 
 <br>
